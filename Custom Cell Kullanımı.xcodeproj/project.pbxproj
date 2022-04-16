@@ -13,6 +13,8 @@
 		DE5E0070280B377E001EB806 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE5E006E280B377E001EB806 /* Main.storyboard */; };
 		DE5E0072280B3780001EB806 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE5E0071280B3780001EB806 /* Assets.xcassets */; };
 		DE5E0075280B3780001EB806 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE5E0073280B3780001EB806 /* LaunchScreen.storyboard */; };
+		DE5E007D280B37F7001EB806 /* TableViewHucre.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5E007C280B37F7001EB806 /* TableViewHucre.swift */; };
+		DE5E007F280B3868001EB806 /* Kisiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5E007E280B3868001EB806 /* Kisiler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		DE5E0071280B3780001EB806 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE5E0074280B3780001EB806 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE5E0076280B3780001EB806 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE5E007C280B37F7001EB806 /* TableViewHucre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewHucre.swift; sourceTree = "<group>"; };
+		DE5E007E280B3868001EB806 /* Kisiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kisiler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				DE5E0068280B377E001EB806 /* AppDelegate.swift */,
 				DE5E006A280B377E001EB806 /* SceneDelegate.swift */,
 				DE5E006C280B377E001EB806 /* ViewController.swift */,
+				DE5E007C280B37F7001EB806 /* TableViewHucre.swift */,
+				DE5E007E280B3868001EB806 /* Kisiler.swift */,
 				DE5E006E280B377E001EB806 /* Main.storyboard */,
 				DE5E0071280B3780001EB806 /* Assets.xcassets */,
 				DE5E0073280B3780001EB806 /* LaunchScreen.storyboard */,
@@ -139,8 +145,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE5E006D280B377E001EB806 /* ViewController.swift in Sources */,
+				DE5E007D280B37F7001EB806 /* TableViewHucre.swift in Sources */,
 				DE5E0069280B377E001EB806 /* AppDelegate.swift in Sources */,
 				DE5E006B280B377E001EB806 /* SceneDelegate.swift in Sources */,
+				DE5E007F280B3868001EB806 /* Kisiler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
